@@ -1,4 +1,4 @@
-# Tax and Tip
+# 6. Tax and Tip
 cost = input('Enter cost:')
 tax = 0.1 * float(cost)
 tip = 0.18 * float(cost)
